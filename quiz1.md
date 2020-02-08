@@ -31,7 +31,7 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 10. List 3 of JS's _primitive data types._
 
 <heading> 
-<title>I'm trying!</title>
+<h1>I'm trying!</h1>
 <ol>
 <li>Git is a terminal that allows code to be created</li>
 <li>Bash is an program </li>
