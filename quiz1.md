@@ -31,15 +31,17 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 10. List 3 of JS's _primitive data types._
 
 <heading> 
+<title>I'm trying!</title>
 <ol>
 <li>Git is a terminal that allows code to be created</li>
-<li>Bash is an...Ill come back</li>
-<li>cd..</li>
-<li>Need to remember this one</li>
-<li>That would mean that there is a character missing or incorrect</li>
+<li>Bash is an program </li>
+<li>cd</li>
+<li>Automates the process of finding and fixing bugs</li>
+<li>That would mean that there is a character missing or incorrect - Grammatical error.</li>
 <li>Const and let</li>
-<li>What is NPM</li>
-<li>Java Script something notation</li>
-<li>add new software is installed</li>
+<li>What is NPM - node package manager to assist working with our projects</li>
+<li>Java Script Object notation</li>
+<li>add new software is installed node_models</li>
 <li>Numbers, strings, and booleans</li>
+</ol>
 </heading>
