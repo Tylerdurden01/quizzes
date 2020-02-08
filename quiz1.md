@@ -29,3 +29,17 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+<heading> 
+<ol>
+<li>Git is a terminal that allows code to be created</li>
+<li>Bash is an...Ill come back</li>
+<li>cd..</li>
+<li>Need to remember this one</li>
+<li>That would mean that there is a character missing or incorrect</li>
+<li>Const and let</li>
+<li>What is NPM</li>
+<li>Java Script something notation</li>
+<li>add new software is installed</li>
+<li>Numbers, strings, and booleans</li>
+</heading>
